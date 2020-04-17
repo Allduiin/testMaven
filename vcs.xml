@@ -126,6 +126,10 @@
           <option name="url" value="https://github.com/Allduiin/jv-stream-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Allduiin/jv-date-time-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Java\Homework" />
